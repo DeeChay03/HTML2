@@ -1,0 +1,138 @@
+body {
+    background-color: rgb(253, 253, 253);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.card {
+    width: 330px;
+    background-color: rgb(254, 255, 255);
+}
+
+.thumbnail {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
+.menu{
+    background-color: aqua;
+}
+
+.gap-sm {
+    gap: 10px;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.border-rounded-sm {
+    border-radius: 8px;
+}
+
+.border-rounded-top-sm {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.p-sm {
+    padding: 5px;
+}
+
+.p-md {
+    padding: 10px;
+}
+.text-align-center {
+    text-align: center;
+}
+.space-evenly {
+    justify-content: space-evenly;
+    
+}
+
+.text-sm {
+    font-size: 12px;
+}
+
+.text-md {
+    font-size: 16px;
+}
+
+.text-lg {
+    font-size: 20px;
+}
+
+.text-gray {
+    color: gray;
+}
+
+.text-purple {
+    color: purple;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-orange {
+    color: orange;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-primary {
+    color: darkblue;
+}
+
+.bg-purple-50 {
+    background-color: rgba(128, 0, 128, 0.388);
+}
+.bg-blue{
+    background-color:blue;
+}
+.img-1{
+    width: 390px;
+    height: 460px;
+    background:url("../img/ISTAD.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img-2{
+    width: 390px;
+    height: 460px;
+    background:url("../img/youtube.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img-3{
+    width: 390px;
+    height: 460px;
+    background:url("../img/tiktok.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img-4{
+    width: 390px;
+    height: 460px;
+    background:url("../img/FB.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
